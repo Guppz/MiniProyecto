@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mini Proyecto</string>
+    <string name="Titulo_bateria">Informacion de la bateria</string>
+    <string name="Titulo_wifi">Informacion del wifi</string>
+    <string name="Titulo_gps">Informacion del gps</string>
+    <string name="place_holder">Place holder</string>
+    <string name="battery_plugged_none">No esta conectado</string>
+    <string name="battery_plugged_wireless">Cargando de forma inalambrica</string>
+    <string name="battery_plugged_usb">Cargando de con usb</string>
+    <string name="battery_plugged_ac">Cargando de con el ac</string>
+    <string name="wifi_conected">Wifi conectado</string>
+    <string name="wifi_disconnected">Wifi desconectado</string>
+    <string name="wifi_conecting">Wifi conectandose</string>
+    <string name="battery_status_discharging">Descargandose</string>
+    <string name="battery_status_charging">Cargando</string>
+    <string name="battery_status_full">Telefono esta a full</string>
+</resources>
